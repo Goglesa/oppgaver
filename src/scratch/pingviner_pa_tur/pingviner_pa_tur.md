@@ -207,7 +207,7 @@ Akvariet._
 I dette spillet skal vi kontrollere pingvinen ved å klikke på kartet. Pingvinen
 skal da snu seg vekk fra der vi holder musepekeren før den går videre.
 
-- [ ] Klikk på __Scene__ nede til venstre på skjermen. Dette gir oss muligheten
+- [ ] Klikk på __Scene__ nede til høyre på skjermen. Dette gir oss muligheten
   til å skrive kode som gjelder for bakgrunnen og ikke for pingvinen.
 
 - [ ] Lag den følgende nye koden på Scenen:
